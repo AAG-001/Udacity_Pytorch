@@ -1,2 +1,3 @@
 # Udacity_Pytorch
-Lesson5 Part1
+Introduction to pytorch and neural networks.
+Lesson 5 
